@@ -6,7 +6,7 @@ public class GitHubPracticeTow {
 		return a*b;
 	}
 	
-public int test(int x, int y, String message) {
+	public int test(int x, int y, String message) {
 	System.out.println(message);
 	int z = x+y;
 	return z;
